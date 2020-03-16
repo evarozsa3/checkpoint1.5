@@ -1,0 +1,83 @@
+{
+  outline: 2px solid black;
+}
+.body{
+  background-color: black;
+}
+.navbar{
+  background: none;
+}
+/* .navbar-toggler-icon{
+border: red;
+border-style: solid;
+border-width: 2px;
+} */
+.fa-bars{
+  color: white  ;
+}
+.sec1{
+  background-color: black;
+  height: 60vh;
+  color: aliceblue;
+  font-size: 20px;
+  
+}
+.video{
+    box-shadow:2px 2px 5px rgb(228, 14, 78);
+
+   
+}
+.brainQ{
+ text-align: center;
+ margin-top: 50px;
+}
+.btnH{
+ width: 270px;
+ box-shadow:2px 2px 5px rgb(11, 7, 238);
+  
+}
+.nav-link{
+  float: right;
+}
+.imgC {
+  height: 240px;
+  width: 240px;
+  border-radius: 50%;
+   box-shadow:2px 2px 5px rgb(228, 14, 78);
+}
+.buttonUp {
+  margin-top: -15px;
+ 
+}
+
+.card-body{
+border: none;
+background-color: rgba(193, 186, 231, 0.473);
+box-shadow:2px 2px 5px rgb(11, 7, 238);
+ 
+}
+
+.br{
+background-color: rgb(235, 10, 21);
+  height: 1px;
+
+  margin: 0px;
+}
+.imgQ{
+  max-width: 99%;
+  max-height: 99%;
+ border-radius: 25%;
+  box-shadow:2px 2px 5px rgb(11, 7, 238);
+  
+}
+.QB{
+  text-align: center;
+  color: aliceblue;
+  font-size: 20px;
+  margin-top: 50px;
+}
+.logo{
+  max-width: 99%;
+  max-height: 99%;
+
+}
