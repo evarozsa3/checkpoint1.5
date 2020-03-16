@@ -30,6 +30,7 @@ border-width: 2px;
 .brainQ{
  text-align: center;
  margin-top: 50px;
+
 }
 .btnH{
  width: 270px;
@@ -38,6 +39,9 @@ border-width: 2px;
 }
 .nav-link{
   float: right;
+}
+.card-row{
+  background-color: rgb(87, 12, 94);
 }
 .imgC {
   height: 240px;
@@ -48,20 +52,24 @@ border-width: 2px;
 .buttonUp {
   margin-top: -15px;
  
+ 
 }
 
 .card-body{
 border: none;
-background-color: rgba(193, 186, 231, 0.473);
+background-color: rgba(193, 186, 231, 0.658);
 box-shadow:2px 2px 5px rgb(11, 7, 238);
  
+}
+.spill-out{
+  bottom: -90px;
 }
 
 .br{
 background-color: rgb(235, 10, 21);
-  height: 1px;
+  height: 2px;
+ 
 
-  margin: 0px;
 }
 .imgQ{
   max-width: 99%;
